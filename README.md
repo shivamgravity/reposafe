@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-hackathon-orange)
 
-<centre>![RepoSafe Banner](./public/banner.png)</centre>
+![RepoSafe Banner](./public/banner.png){:.centered}
 
 > AI-powered GitHub repository security scanner.  
 > Know if a repo will attack your machine **before you run a single command.**
