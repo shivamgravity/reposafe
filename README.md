@@ -1,5 +1,12 @@
 # 🛡️ RepoSafe — Know Before You Clone
 
+![RepoSafe Banner](./public/banner.png)
+
+> AI-powered GitHub repository security scanner.  
+> Know if a repo will attack your machine **before you run a single command.**
+
+---
+
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![AI](https://img.shields.io/badge/AI-Groq%20Llama%203.1-purple)
