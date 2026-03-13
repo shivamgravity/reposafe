@@ -19,10 +19,6 @@
 
 # 🎥 Demo
 
-![RepoSafe Demo](./public/demo.gif)
-
-*Paste a GitHub repository URL and instantly see if it is safe to clone.*
-
 <u>See live demonstration on Youtube</u>: [https://youtu.be/lONES6cl9dQ](https://youtu.be/lONES6cl9dQ)
 
 ---
