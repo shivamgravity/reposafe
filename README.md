@@ -124,19 +124,36 @@ Plain-English explanation
 ```
 ⚠️ CLONE WITH CAUTION
 
-Trust Score: 42/100
+Trust Score: 60/100
 
 Findings:
-🔴 postinstall script executing remote command
-🔴 MCP server redirect to external endpoint
-🟡 suspicious repository age
+🔴 Could potentially expose the application to API abuse or data leaks.
+🟡 The absence of 'package.json' and the GitHub metadata may suggest a lack of thorough security practices.
 ```
+
+![RepoSafe Banner](./images/caution.png)
+
+```
+🚨 DO NOT CLONE
+
+Trust Score: 10/100
+
+Findings:
+🔴 high-severity curl-pipe-bash commands and malicious postinstall scripts.
+🔴 'package.json' contains a postinstall script that could install arbitrary code from an untrusted source
+🔴 '.mcp.json' file contains an override of the MCP server URL to a suspicious host.
+🔴 'README.md' document and 'install.sh' script both contain curl-pipe-bash commands that could execute malicious payloads.
+
+```
+
+![RepoSafe Banner](./images/Dangerous.png)
 
 Safe repositories receive:
 
 ```
 ✅ SAFE TO CLONE
 ```
+![RepoSafe Banner](./images/safe.png)
 
 ---
 
