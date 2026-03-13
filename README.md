@@ -276,7 +276,7 @@ GROQ_API_KEY
 GITHUB_TOKEN
 ```
 
-4️⃣ Deploy 🚀
+4️⃣ Deploy
 
 ---
 
