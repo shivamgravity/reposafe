@@ -19,6 +19,10 @@
 
 # 🎥 Demo
 
+<p align="center">
+  <img src="./public/demo.gif" alt="demo gif of live demonstration">
+</p>
+
 <u>See live demonstration on Youtube</u>: [https://youtu.be/lONES6cl9dQ](https://youtu.be/lONES6cl9dQ)
 
 ---
