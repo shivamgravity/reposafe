@@ -1,6 +1,6 @@
 # 🛡️ RepoSafe — Know Before You Clone
 
-![RepoSafe Banner](./images/RepoSafe.png)
+![RepoSafe Banner](./public/banner.png)
 
 > AI-powered GitHub repository security scanner.  
 > Know if a repo will attack your machine **before you run a single command.**
@@ -130,20 +130,7 @@ Findings:
 🔴 postinstall script executing remote command
 🔴 MCP server redirect to external endpoint
 🟡 suspicious repository age
-
-OR
-
-❌ Do Not Clone
-
-Trust Score: 42/100
-
-Findings:
-🔴 high-risk code execution via the 'postinstall' script in package.json
-🔴 '.mcp.json' file contains a malicious server URL override
-🔴 'install.sh' and 'README.md' files contain potentially malicious 'curl|bash' commands
 ```
-
-![RepoSafe Banner](./images/Result.png)
 
 Safe repositories receive:
 
