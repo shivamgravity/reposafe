@@ -127,7 +127,7 @@ Trust Score: 60/100
 
 Findings:
 🔴 Could potentially expose the application to API abuse or data leaks.
-🟡 The absence of 'package.json' and the GitHub metadata may suggest a lack of good security practices.
+🟡 Absence of 'package.json' and limited GitHub metadata may suggest a lack of good security practices.
 ```
 
 ![RepoSafe Banner](./images/caution.png)
