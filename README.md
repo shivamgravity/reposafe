@@ -296,15 +296,12 @@ reposafe
 │           └── route.js
 │
 ├── public
-│   ├── banner.png
-│   └── test
+│   └── banner.png
 │
 │── images
 │   ├── Dangerous.png
 │   |── caution.png
-│   |── safe.png
-│   └── test
-│
+│   └── safe.png
 │
 ├── package.json
 ├──.gitignore
