@@ -8,9 +8,9 @@
 
 <!-- ![RepoSafe Banner](./public/banner.png){:.centered} -->
 
-<div style="text-align: center;">
+<p align="center">
   <img src="./public/banner.png" alt="RepoSafe Banner">
-</div>
+</p>
 
 > AI-powered GitHub repository security scanner.  
 > Know if a repo will attack your machine **before you run a single command.**
