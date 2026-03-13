@@ -286,15 +286,24 @@ reposafe
 ├── app
 │   ├── page.jsx
 │   ├── layout.js
+|   ├── icon.ico
 │   └── api
 │       └── scan
 │           └── route.js
 │
 ├── public
 │   ├── banner.png
-│   └── demo.gif
+│   └── test
+│
+│── images
+│   ├── Dangerous.png
+│   |── caution.png
+│   |── safe.png
+│   └── test
+│
 │
 ├── package.json
+├──.gitignore
 ├── package-lock.json
 ├── .env.local.example
 └── README.md
