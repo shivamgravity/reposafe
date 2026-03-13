@@ -1,6 +1,6 @@
 # 🛡️ RepoSafe — Know Before You Clone
 
-![RepoSafe Banner](./public/banner.png)
+<center>![RepoSafe Banner](./public/banner.png)</center>
 
 > AI-powered GitHub repository security scanner.  
 > Know if a repo will attack your machine **before you run a single command.**
